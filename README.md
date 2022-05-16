@@ -5,6 +5,7 @@ Line 5
 # Contributors
 - Dinkan
 - AFK-Z10
+- Krishna
 - jswe
 
 # Ideas
