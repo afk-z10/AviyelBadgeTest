@@ -4,7 +4,7 @@ Line 5
 
 # Contributors
 - Dinkan
-- AFK-Z10
+- [afk-z10](https://beta.aviyel.com/@afk-z10)
 - Krishna
 - jswe
 
